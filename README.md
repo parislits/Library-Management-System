@@ -21,40 +21,60 @@ Clone το repository
 Δημιούργησε τις παρακάτω κλάσεις:
 
 Book.java
+
 Library.java
+
 Main.java
 
 4)
 Κλάση Book
 Η κλάση πρέπει να έχει τα πεδία:
+
 id
+
 title
+
 author
+
 isBorrowed
+
 και:
+
 constructor
+
 getters / setters
+
 toString()
 
-5)
+6)
 Κλάση Library
 
 Η κλάση πρέπει να έχει μια λίστα βιβλίων:
 ArrayList<Book>
 και μεθόδους:
+
 addBook
+
 removeBook
+
 borrowBook
+
 returnBook
+
 listBooks
 
 6)
 η εφαρμογή πρέπει να μπορεί:
+
 να προσθέτει βιβλία
+
 να αφαιρεί βιβλία
+
 να δανείζει βιβλία
+
 να επιστρέφει βιβλία
+
 να εμφανίζει τη λίστα βιβλίων
 
-8) απο το git μενου του intellij κανε commit τα αρχεια και push στο remote
+7) απο το git μενου του intellij κανε commit τα αρχεια και push στο remote
 
